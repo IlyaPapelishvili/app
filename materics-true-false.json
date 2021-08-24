@@ -6,8 +6,6 @@
 					"name": "Europe",
 					"countres": [
 						{
-							"name": "Belarus",
-							"capital": "Minsk",
 							"capsdital": "Misdnsk",
 							"population": "9.5 million",
 							"bool": false
